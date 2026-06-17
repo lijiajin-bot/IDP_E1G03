@@ -1,7 +1,3 @@
 {
-  "mcpServers": {
-    "github": {
-      "enabled": true
-    }
-  }
+  "template": "bolt-vite-react-ts"
 }
